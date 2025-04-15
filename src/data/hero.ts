@@ -1,5 +1,6 @@
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
-    centerImageSrc: '/images/hero-mockup.webp',
-}
+  heading: 'Multilingual AI Chatbot for Ecommerce',
+  subheading:
+    'Launch an intelligent chatbot in 3 minutes. Save time, support globally, and track everything in real-time.',
+  centerImageSrc: '/images/hero-ai.webp',
+};
