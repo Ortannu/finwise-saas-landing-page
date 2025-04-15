@@ -25,6 +25,8 @@ const HomePage: React.FC = () => {
           <Pricing />
         </Section>
 
+        <Stats />
+
         <Section
           id="testimonials"
           title="What Our Clients Say"
@@ -35,8 +37,6 @@ const HomePage: React.FC = () => {
 
         <FAQ />
 
-        <Stats />
-        
         <CTA />
       </Container>
     </>
@@ -44,3 +44,4 @@ const HomePage: React.FC = () => {
 };
 
 export default HomePage;
+
