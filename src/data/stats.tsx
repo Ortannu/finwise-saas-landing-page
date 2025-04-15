@@ -4,19 +4,19 @@ import { PiGlobeFill } from "react-icons/pi";
 import { IStats } from "@/types";
 
 export const stats: IStats[] = [
-    {
-        title: "20M+",
-        icon: <BsBarChartFill size={34} className="text-blue-500" />,
-        description: "Transactions processed securely every day, providing real-time insights."
-    },
-    {
-        title: "5.0",
-        icon: <BsFillStarFill size={34} className="text-yellow-500" />,
-        description: "Star rating, consistently maintained across app stores."
-    },
-    {
-        title: "200+ ",
-        icon: <PiGlobeFill size={34} className="text-green-600" />,
-        description: "Financial Institutions, seamlessly integrated, so you can manage all accounts."
-    }
+  {
+    title: "100K+",
+    icon: <BsBarChartFill size={34} className="text-blue-600" />,
+    description: "Messages handled every day by AIOrchestrator bots."
+  },
+  {
+    title: "4.9★",
+    icon: <BsFillStarFill size={34} className="text-yellow-400" />,
+    description: "Average rating from users and store owners."
+  },
+  {
+    title: "100+",
+    icon: <PiGlobeFill size={34} className="text-green-500" />,
+    description: "Languages supported for instant translation."
+  }
 ];
